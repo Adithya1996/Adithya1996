@@ -11,6 +11,9 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya1996&show_icons=true&theme=radical&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya1996)](https://github.com/Adithya1996/github-readme-stats)
+
+
 ### Connect with me
 
 
