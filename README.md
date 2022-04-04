@@ -11,7 +11,15 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 ### Languages
 
-<img src="https://img.icons8.com/color/344/c-programming.png" width="30"> <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" width="30"> <img src="https://img.icons8.com/color/344/python--v1.png" width="30"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="30">
+<img src="https://img.icons8.com/color/344/c-programming.png" width="30"> <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" width="30"> <img src="https://img.icons8.com/color/344/python--v1.png" width="30"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="30"> <img src="https://img.icons8.com/plasticine/344/bash.png" width="30"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png" width="30">
+
+### Tools
+
+<img src="https://img.icons8.com/color/344/git.png" width="30"> <img src="https://img.icons8.com/color/344/django.png" width="30"> <img src="https://img.icons8.com/ios/344/flask.png" width="30"> <img src="https://img.icons8.com/color/344/docker.png" width="30"> <img src="https://img.icons8.com/color/344/nginx.png" width="30"> <img src="https://img.icons8.com/dusk/344/postman-api.png" width="30">
+
+### Cloud Vendor
+
+<img src="https://img.icons8.com/ios-filled/344/digitalocean.png" width="30">
 
 
 
