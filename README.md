@@ -11,10 +11,7 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 ### Languages
 
-- <img src="https://img.icons8.com/color/344/c-programming.png" width="20">
-- <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" width="20">
-- <img src="https://img.icons8.com/color/344/python--v1.png" width="20">
-- <img src="https://img.icons8.com/color/344/javascript--v1.png" width="20">
+<img src="https://img.icons8.com/color/344/c-programming.png" width="30"> <img src="https://img.icons8.com/color/344/c-plus-plus-logo.png" width="30"> <img src="https://img.icons8.com/color/344/python--v1.png" width="30"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="30">
 
 
 
