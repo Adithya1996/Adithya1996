@@ -15,7 +15,7 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 ### Tools
 
-<img src="https://img.icons8.com/color/344/git.png" width="30"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="40"> <img src="https://cdn.iconscout.com/icon/free/png-64/flask-51-285137.png" width="50"> <img src="https://img.icons8.com/color/344/docker.png" width="30"> <img src="https://img.icons8.com/color/344/nginx.png" width="30"> <img src="https://img.icons8.com/dusk/344/postman-api.png" width="30">
+<img src="https://img.icons8.com/color/344/git.png" width="30"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="40"> <img src="https://cdn.iconscout.com/icon/free/png-64/flask-51-285137.png" width="30"> <img src="https://img.icons8.com/color/344/docker.png" width="30"> <img src="https://img.icons8.com/color/344/nginx.png" width="30"> <img src="https://img.icons8.com/dusk/344/postman-api.png" width="30">
 
 ### Cloud Vendor
 
@@ -23,6 +23,9 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-raviraja&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-raviraja&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me
 
