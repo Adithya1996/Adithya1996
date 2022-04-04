@@ -9,7 +9,10 @@ my prior work experience in the protocol and networking domain.
 Of recent, as a freelancer I have worked on backend web projects using tools such a Django and Django Rest Framework and played around with
 Javascript. I enjoy learning new technologies and tools and have a passion in diving into the unknown.
 
-<img src="https://img.icons8.com/office/344/react.png" width="25">
+- <img src="https://img.icons8.com/office/344/react.png" width="25">
+- <img src="https://img.icons8.com/office/344/react.png" width="25">
+- <img src="https://img.icons8.com/office/344/react.png" width="25">
+- <img src="https://img.icons8.com/office/344/react.png" width="25">
 
 ### Skills and Experience
 
