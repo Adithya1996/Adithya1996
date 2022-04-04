@@ -21,11 +21,7 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.png" width="100">
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adithya-raviraja&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithya-raviraja&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Connect with me
 
