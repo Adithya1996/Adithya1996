@@ -26,6 +26,12 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 ### Connect with me
 
-<a href="https://google.com">
-  <img src="https://img.icons8.com/color/344/linkedin.png">
+<a href="https://www.linkedin.com/in/adithya-raviraja/">
+  <img src="https://img.icons8.com/color/344/linkedin.png" width="40">
 </a>
+
+<a href="mailto:adithya.raviraj96@gmail.com">
+  <img src="https://img.icons8.com/color/344/gmail-new.png" width="40">
+</a>
+
+
