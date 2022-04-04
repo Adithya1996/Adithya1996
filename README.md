@@ -9,26 +9,10 @@ my prior work experience in the protocol and networking domain.
 Of recent, as a freelancer I have worked on backend web projects using tools such a Django and Django Rest Framework and played around with
 Javascript. I enjoy learning new technologies and tools and have a passion in diving into the unknown.
 
+### Skills and Experience
+https://img.icons8.com/office/344/react.png
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya1996&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya1996)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### Connect with me
-
-
-
-I have generally worked on
-C and C++ but now have shifted towards Python and Javascript. I also have a good amount of experience in Django and Django Rest Framework.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
