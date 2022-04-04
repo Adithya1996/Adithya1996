@@ -19,7 +19,7 @@ Javascript. I enjoy learning new technologies and tools and have a passion in di
 
 ### Cloud Vendor
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91rwrrYJVy_8MdE5BjJT4-zIYwTqwKPoAtg&usqp=CAU" width="30">
+<img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.png" width="100">
 
 
 
