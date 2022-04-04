@@ -10,7 +10,6 @@ Of recent, as a freelancer I have worked on backend web projects using tools suc
 Javascript. I enjoy learning new technologies and tools and have a passion in diving into the unknown.
 
 ### Skills and Experience
-https://img.icons8.com/office/344/react.png
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adithya1996&show_icons=true&theme=radical&count_private=true)
