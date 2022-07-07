@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Adithya Raviraja, currently a freelancer but also actively looking for full time roles as a backend developer :). 
+I am Adithya Raviraja, currently a Software Backend Developer at Masters India Pvt. Ltd.
 I have a B.E degree in Computer Science and Engineering for BMS College of Engineering Class of 2018. I have primarily worked in
 the enterprise storage domain focusing on Data Replication and Synchoronization over various mediums. As a result I have a great knowledge in 
 linux, multithreading and distributed architectures. I have a good knowledge in network filesystems such as NFS3 and SMB2 due to
